@@ -1,7 +1,10 @@
 meme_dict = {
             "Cringe": ""Garip ya da utandırıcı bir şey",
             "LOL": ""Komik bir şeye verilen cevap",
-            "RUFL": "JOKE"
+            "RUFL": "Şakaya karşılık cevap",
+            "SHEESH":"Onaylamamak",
+            "CREEPY":"korkunc",
+            "AGGRO":"sinirlenmek/agresifleşmek"
             }
 
 word = input("Anlaşılmaz bir kelime girin (büyük harflerle!): ")
